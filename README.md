@@ -1,9 +1,15 @@
 # MinecraftAutofisher-Subtitle-
-**Utilizing subtitle to acheive automatic fishing in minecraft**
-1. Install dependencies
+## Utilizing subtitle to acheive automatic fishing in minecraft
+### Install dependencies
 Open cmd and type:
+```bash
 pip install pyautogui cv2 easyocr numpy winsound
-2. Make sure your computer can handle the reader.readtext() function fast enough
+```
+### Options.py
+```python
+
+```
+
 3. Navigate to this folder and type 
 python script.py
 4. Press Ctrl+C to stop the program
