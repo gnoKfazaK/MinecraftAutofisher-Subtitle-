@@ -1,5 +1,8 @@
 # MinecraftAutofisher-Subtitle-
 ## Utilizing subtitle to acheive automatic fishing in minecraft
+By screen capturing the bottom right corner of your screen, capturing subtitle until "Fishing bobber splashes" appears. The program then retrieve the fishing rod and throw it again.
+- Language must be English
+- Subtitle must be turned on
 ### Installing dependencies
 Open cmd and type:
 ```bash
